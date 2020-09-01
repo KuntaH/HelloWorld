@@ -4,7 +4,7 @@ public class HelloWorld {
         for(int i =1;i<=10;i++){
             System.out.println(i);
         }
-        System.out.println("Petra teller fra 1 til 50.");
+        System.out.println("Petra 1 til 50.");
         for(int i =1;i<=50;i++){
             System.out.println(i);
         }
